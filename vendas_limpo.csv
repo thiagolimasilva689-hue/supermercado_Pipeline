@@ -1,0 +1,20 @@
+data,produto,categoria,preco,quantidade,vendedor,regiao,valor_total
+2026-01-05,Arroz,Alimentos,25.9,10,Ana,Sul,259.0
+2026-01-05,Feijão,Alimentos,10.5,5,Ana,Sul,52.5
+2026-01-06,Notebook,Eletrônicos,3500.0,2,Bruno,Sudeste,7000.0
+2026-01-06,Mouse,Eletrônicos,80.0,10,Bruno,Sudeste,800.0
+2026-01-07,Detergente,Limpeza,49.9,5,Carlos,Sul,249.5
+2026-01-08,Camiseta,Vestuário,49.9,8,Ana,Sul,399.2
+2026-01-08,Calça Jeans,Vestuário,129.9,4,Bruno,Sudeste,519.6
+2026-01-09,Arroz,Alimentos,25.9,10,Ana,Sul,259.0
+2026-01-09,Feijão,Alimentos,10.5,5,Carlos,Sul,52.5
+2026-01-10,Notebook,Eletrônicos,3500.0,2,Ana,Sul,7000.0
+2026-01-10,Mouse,Eletrônicos,80.0,10,Bruno,Sudeste,800.0
+2026-01-11,Sabão em Pó,Limpeza,18.9,6,Carlos,Sul,113.39999999999999
+2026-01-11,Detergente,Limpeza,3.5,20,Ana,Sul,70.0
+2026-01-12,Camiseta,Vestuário,49.9,8,Bruno,Sudeste,399.2
+2026-01-13,Notebook,Eletrônicos,3500.0,1,Ana,Sul,3500.0
+2026-01-13,Mouse,Eletrônicos,80.0,10,Bruno,Sudeste,800.0
+2026-01-14,Arroz,Alimentos,25.9,10,Carlos,Sul,259.0
+2026-01-14,Feijão,Alimentos,10.5,5,Ana,Sul,52.5
+2026-01-15,Notebook,Eletrônicos,3500.0,2,Bruno,Sudeste,7000.0
